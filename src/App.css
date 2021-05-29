@@ -51,7 +51,7 @@ img {
   width: 100%;
   opacity: 0;
   transition: .5s ease;
-  background-color: #af9f58;
+  background-color: #af9f58ab;
   border-radius:10px;
 }
 
